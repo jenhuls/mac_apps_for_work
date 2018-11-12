@@ -9,6 +9,7 @@ List of Mac applications for Web Development
   * [Autocomplete WordPress Hooks Package](https://atom.io/packages/autocomplete-wordpress-hooks)
   * [WordPress package](https://atom.io/packages/wordpress)
   * Atom Beautify
+  * Delete Whitelines
   * Project Plus
   * Highlight Selected
   * Auto-Update-Packages
