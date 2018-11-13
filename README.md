@@ -20,6 +20,7 @@ List of Mac applications for Web Development
 * Safari (should be installed on Mac)
 * [MacPass](https://macpassapp.org/)
 * [Slack](https://slack.com/downloads/osx)
+* [ImageOptim](https://imageoptim.com/mac)
 * Transmit (get from Dropbox folder)
 * Spotify (get from Dropbox folder)
 
