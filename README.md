@@ -24,6 +24,8 @@ List of Mac applications for Web Development
 * Transmit (get from Dropbox folder)
 * Spotify (get from Dropbox folder)
 * [Local by Flywheel](https://localbyflywheel.com/)
+* MS Office
+* Adobe Creative Suite
 
 # Add Spaces to Dock
 Type `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock` and press return.
