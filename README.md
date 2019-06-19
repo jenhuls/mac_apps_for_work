@@ -27,5 +27,8 @@ List of Mac applications for Web Development
 * MS Office
 * Adobe Creative Suite
 
+# Delete Chrome History
+* [Delete your Chrome browsing history](https://support.google.com/chrome/answer/95589?co=GENIE.Platform%3DDesktop&hl=en)
+
 # Add Spaces to Dock
 Type `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock` and press return.
