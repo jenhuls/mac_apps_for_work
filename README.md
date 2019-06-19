@@ -13,7 +13,7 @@ List of Mac applications for Web Development
   * Project Plus
   * Highlight Selected
   * Auto-Update-Packages
-* [Alfred Productivity App](https://www.alfredapp.com/)
+* [Alfred Productivity App](https://www.alfredapp.com/) (License in Codebox)
 * Codebox (get from Dropbox folder)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
@@ -23,6 +23,7 @@ List of Mac applications for Web Development
 * [ImageOptim](https://imageoptim.com/mac)
 * Transmit (get from Dropbox folder)
 * Spotify (get from Dropbox folder)
+* [Local by Flywheel](https://localbyflywheel.com/)
 
 # Add Spaces to Dock
 Type `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock` and press return.
